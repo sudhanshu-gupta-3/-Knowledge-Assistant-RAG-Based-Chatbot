@@ -57,11 +57,3 @@ Based on the route:
 Streamlit displays the answer to the user.
 
 ---
-
-## 🧪 Local Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/RAG-Chatbot.git
-cd RAG-Chatbot
